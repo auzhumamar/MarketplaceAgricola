@@ -10,3 +10,4 @@ Facilitar la comercialización de productos agrícolas locales, permitiendo cono
 - María Guanca
 - Steven Chininin
 - Aurora Zhuma
+
